@@ -1,2 +1,2 @@
 # ejemplo
-ejemplo de repo
+ejemplo de repo para aprender a trabajar con git
